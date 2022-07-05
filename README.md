@@ -64,21 +64,21 @@ I'm Sankhya Krisna, an freshgraduate student at udayana university.
         <img src="https://avatars.githubusercontent.com/u/43339356?v=4" width="100px;" alt="deaaprizal"/>
       </a>
       <br />
-      <a href="https://github.com/deaaprizal">deaaprizal</a>
+      <a href="https://github.com/deaaprizal">Deaaprizal</a>
     </td>
     <td align="center">
       <a href="https://github.com/faqihza">
-        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="faqihza"/>
+        <img src="https://avatars.githubusercontent.com/u/7764302?v=4" width="100px;" alt="faqihza"/>
       </a>
       <br />
-      <a href="https://github.com/faqihza">faqihza</a>
+      <a href="https://github.com/faqihza">Faqihza</a>
     </td>
     <td align="center">
       <a href="https://github.com/sandhikagalih">
-        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="sandhikagalih"/>
+        <img src="https://avatars.githubusercontent.com/u/2681894?v=4" width="100px;" alt="sandhikagalih"/>
       </a>
       <br />
-      <a href="https://github.com/sandhikagalih">Dejia Xu</a>
+      <a href="https://github.com/sandhikagalih">Sandhika Galih</a>
     </td>
   </tr>
 </table>
