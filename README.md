@@ -32,28 +32,26 @@ Wish you a good-looking profile README!
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
-I'm S**kh** S**y**a**is**, an freshgraduate student at udayana university.
+I'm Sankhya Krisna, an freshgraduate student at udayana university.
 
--   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
+-   :hammer_and_pick: Javascript / Python / GitHub Actions / React / Vue
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :seedling: Taking courses & doing assignments at THU
+-   :seedling: Taking courses & doing assignments at Unud
 -   :man: Pronouns: he/him
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
 
 ---
 
-#### :sparkles: [My followers](src/getTopFollowers.py)
+#### :sparkles: [My inspiration](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/wizardforcel">
-        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
+      <a href="https://github.com/ouuan">
+        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="ouuan"/>
       </a>
       <br />
-      <a href="https://github.com/wizardforcel">布客飞龙</a>
+      <a href="https://github.com/ouuan">ouuan</a>
     </td>
     <td align="center">
       <a href="https://github.com/gaocegege">
