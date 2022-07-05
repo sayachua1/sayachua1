@@ -61,7 +61,7 @@ I'm Sankhya Krisna, an freshgraduate student at udayana university.
     </td>
     <td align="center">
       <a href="https://github.com/deaaprizal">
-        <img src="https://avatars2.githubusercontent.com/u/88071912" width="100px;" alt="deaaprizal"/>
+        <img src="https://avatars.githubusercontent.com/u/43339356?v=4" width="100px;" alt="deaaprizal"/>
       </a>
       <br />
       <a href="https://github.com/deaaprizal">deaaprizal</a>
